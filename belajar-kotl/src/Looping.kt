@@ -20,11 +20,17 @@ fun main(){
 
     println("\n==== Coba iterasi yang LIST ====")
 
-    val kumpulanBuah = listOf("Apel" ,"jeruk", "semangka")
-    for (i in kumpulanBuah){
-        println("- $i")
+    val kumpulanBuah = listOf("Apel", "pisang", "semangka")
+    for (buah in kumpulanBuah){
+        println("- $buah")
+
     }
 
+    var hitung=1
+    while (hitung<=5){
+        println("nilai skrg: $hitung")
+        hitung++
+    }
 
 
 }
