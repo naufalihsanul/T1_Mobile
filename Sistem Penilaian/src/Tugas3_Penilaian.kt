@@ -39,7 +39,7 @@ fun main(){
     else{
         println("status\t\t: Tidak lulus")
         println()
-        println("Maaf Anda dinyatakan Tidak")
+        println("Maaf Anda dinyatakan Tidak ")
 
     }
 
