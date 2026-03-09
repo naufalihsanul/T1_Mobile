@@ -30,5 +30,4 @@ fun main(){
     println("total yang harus kamu bayar: ${NumberFormat.getNumberInstance().format(totalHarga)}")
 
 
-
 }
